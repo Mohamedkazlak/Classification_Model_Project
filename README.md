@@ -1,3 +1,5 @@
-# Classification-System
+# Classification_Model_Project
 
-A Classification system tha uses Python and Machine Learning Libraries such as: Pandas, numPy, skLearn, K-nearest neighbors (KNN)  and Naive Bayes Classifier
+•	It uses Python and machine learning libraries such a Pandas, NumPy, and scikit-learn. Predicting drug types based on patient data. 
+•	Predictions for the test dataset using both KNN and Naïve Bayes. 
+
