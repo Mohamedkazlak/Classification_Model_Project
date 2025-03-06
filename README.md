@@ -1,4 +1,4 @@
-# Classification_Model_Project
+# Classification Model Project
 
 •	It uses Python and machine learning libraries such a Pandas, NumPy, and scikit-learn. Predicting drug types based on patient data. 
 
